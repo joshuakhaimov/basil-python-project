@@ -9,6 +9,6 @@ In my EID-101 class we worked on a HydroKit where we would plant basil in a hydr
 1. In your terminal, 
 2. On Google Colab, you press the play button and it runs the code.
 
-The graph:
+**The graph:**
 
 ![python-graph](https://cdn.discordapp.com/attachments/707712181323432036/788937015931437076/unknown.png)
