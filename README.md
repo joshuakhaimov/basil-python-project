@@ -6,7 +6,7 @@ In my EID-101 class we worked on a HydroKit where we would plant basil in a hydr
 2. On Google Colab, you press the +Code button and in that box that pops up you paste the code from the repositor.
 
 **How to run:** 
-1. In your terminal, write python eid101work.ipynb
+1. In your terminal, write python eid101work.ipynb and it will run the code.
 2. On Google Colab, you press the play button and it runs the code.
 
 **The graph:**
